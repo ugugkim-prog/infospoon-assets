@@ -1,12 +1,17 @@
 [
  {
   "head": "자동차세 연납 제도가 뭔가요",
-  "prompt": "A realistic candid photo of a Korean woman in her 30s wearing a casual beige coat, standing beside her white sedan in an underground apartment parking garage, looking down at her smartphone with a mildly curious expression. Shot from a slight low side angle at eye level with the car door, dim fluorescent garage lighting mixed with soft daylight spilling in from a nearby ramp entrance, shallow depth of field blurring the parked cars in the background, natural unposed body language as if she just got out of her car.",
-  "alt": "지하 주차장에서 자신의 승용차 옆에 서서 스마트폰을 들여다보는 여성"
+  "prompt": "A realistic candid photo of a Korean woman in her 30s standing beside her parked sedan in an apartment complex parking lot on a sunny morning, holding car keys in one hand and a smartphone in the other, looking thoughtfully at her car. Shot from a slight side angle at eye level, soft natural morning sunlight casting long shadows, shallow depth of field with the car body slightly blurred in the foreground, candid lifestyle photography style, no visible text or numbers anywhere in frame.",
+  "alt": "아파트 주차장에서 차키를 들고 자신의 자동차 옆에 서 있는 여성의 모습"
+ },
+ {
+  "head": "신청 방법, 온라인이 제일 빠르다",
+  "prompt": "A realistic close-up photo of a Korean man in his 40s sitting on a living room sofa, holding a smartphone with both hands and tapping the screen with his thumb, a laptop resting closed beside him on the couch. Shot from a slightly elevated over-the-shoulder angle, soft warm afternoon light coming through a nearby window, blurred phone screen with no readable text or numbers, cozy home interior in the background, natural candid photography style.",
+  "alt": "소파에 앉아 스마트폰으로 무언가를 입력하고 있는 남성의 모습"
  },
  {
   "head": "실제로 얼마나 아낄 수 있나요",
-  "prompt": "A realistic top-down close-up photo of a Korean woman's hands stacking coins next to a small ceramic piggy bank on a wooden kitchen table, soft natural window light falling diagonally across the scene creating gentle shadows, a blurred smartphone with a calculator app open lying nearby but held at an angle where the screen digits are not readable, warm and slightly cozy color tone, shallow depth of field focusing on the coins and hands.",
-  "alt": "나무 식탁 위에서 저금통 옆에 동전을 쌓아 올리는 손과 계산기 앱이 켜진 스마트폰"
+  "prompt": "A realistic top-down photo of a Korean woman's hands at a wooden kitchen table, one hand holding a smartphone and the other resting near a small stack of coins and a calculator, morning light streaming in from the side creating soft shadows. The phone screen is blurred and unreadable, calculator display is out of focus, coffee cup nearby, warm homey atmosphere, natural lifestyle photography style, no legible text or digits visible.",
+  "alt": "식탁에서 계산기와 동전을 앞에 두고 스마트폰을 보며 절약액을 가늠해보는 손 모습"
  }
 ]
