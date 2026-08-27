@@ -1,17 +1,7 @@
 [
  {
-  "head": "가장 먼저 알아둘 곳, 응급의료포털 e-gen",
-  "prompt": "Realistic candid photo, Korean woman in her 30s sitting cross-legged on a living room sofa at night during a holiday, softly lit by a warm floor lamp and the blue glow of her smartphone screen, holding the phone up with both hands while scrolling a map-style webpage, screen content intentionally out of focus, shot from a slight side angle over her shoulder, cozy home background with a folded blanket and a mug on the coffee table, shallow depth of field, natural indoor lighting, phone camera aesthetic, no readable text visible anywhere in frame",
-  "alt": "명절 밤 집 거실 소파에서 한 여성이 스마트폰으로 응급의료 정보를 검색하고 있는 모습"
- },
- {
-  "head": "당번약국, 명절 지킴이 약국이란",
-  "prompt": "Realistic street-level photo of a small neighborhood pharmacy storefront at dusk during a holiday, shutters partly rolled up, a green pharmacy cross sign glowing above the entrance but out of focus so no letters are legible, warm interior lights spilling onto the empty sidewalk, a Korean male pharmacist in a light-colored coat visible through the glass door arranging medicine boxes on a shelf, shot from across the street at a low angle, quiet holiday atmosphere with no other pedestrians, natural dusk lighting with long shadows",
-  "alt": "명절 저녁 문을 연 동네 약국 외관과 약을 정리하는 약사의 모습"
- },
- {
-  "head": "병원까지 가기 애매하다면 비대면 진료",
-  "prompt": "Realistic candid photo, Korean man in his 40s sitting at a home kitchen table during a holiday, wearing a casual cardigan, holding up a smartphone at eye level in front of his face for a video call, screen glow lighting his face but the screen content blurred and unreadable, a glass of water and a box of tissues on the table beside him, warm kitchen lighting in the background, shot from a slight three-quarter angle behind the phone, shallow depth of field, tired but attentive expression, phone camera aesthetic",
-  "alt": "집 식탁에서 한 남성이 스마트폰으로 비대면 진료 화상통화를 하고 있는 모습"
+  "head": "스마트폰이 편하다면 응급의료정보제공 앱",
+  "prompt": "Close-up over-the-shoulder shot of a Korean woman in her 30s sitting on a living room sofa at night, holding a smartphone with both hands, screen glowing softly on her face, checking a map-style app screen, warm lamp light in the background, shallow depth of field, realistic smartphone photography, candid indoor lighting",
+  "alt": "밤에 소파에 앉아 스마트폰 앱으로 병원 정보를 확인하는 여성의 모습"
  }
 ]
