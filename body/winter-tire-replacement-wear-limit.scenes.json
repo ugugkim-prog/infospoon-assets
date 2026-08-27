@@ -1,17 +1,17 @@
 [
  {
-  "head": "마모 한계선 3mm, 어떻게 확인하나요",
-  "prompt": "Extreme close-up macro photo of a car tire tread groove, a Korean man's hand inserting a 100-won coin into the tread groove to check depth, outdoor daylight, natural soft afternoon sunlight from the side casting shadows in the tread pattern, shallow depth of field focusing on the coin edge and tread blocks, realistic asphalt ground visible behind, no visible text or wear indicator numbers, photographed straight-on and slightly angled downward as if taken while crouching next to the car",
-  "alt": "동전을 타이어 트레드 홈에 꽂아 마모 정도를 확인하는 손 클로즈업 사진"
+  "head": "겨울 타이어, 정확히 언제 갈아야 할까",
+  "prompt": "Early winter morning in a Korean apartment complex parking lot, frost covering the asphalt and car windshields, thin mist visible from cold air. A Korean man in his 40s wearing a padded jacket crouches beside his car's front tire, breath visible in the cold, resting one gloved hand on the tire tread while looking down at it thoughtfully. Low morning sunlight casting long shadows across the parking lot, shallow depth of field focusing on the man and tire with blurred parked cars in the background, natural handheld phone-camera look, slightly desaturated cold color tone.",
+  "alt": "서리 낀 이른 겨울 아침 주차장에서 한 남성이 자동차 타이어 상태를 살펴보는 모습"
  },
  {
-  "head": "사계절 타이어와 겨울용 타이어, 뭐가 다를까",
-  "prompt": "Overhead photo comparing two tires placed side by side on a concrete garage floor, left tire showing a simpler shallower tread pattern (all-season type), right tire showing a deeper, more jagged zigzag tread pattern with many fine sipes (winter type), soft overhead fluorescent workshop lighting, camera positioned directly above looking straight down, both tires clean and dry, no logos or text visible on sidewalls, realistic rubber texture and color contrast",
-  "alt": "사계절 타이어와 겨울용 타이어의 트레드 패턴 차이를 위에서 비교한 사진"
+  "head": "마모 한계선 3mm, 어떻게 확인하나요",
+  "prompt": "Close-up but not extreme macro shot of a car tire tread groove at a slight low angle, taken outdoors in a residential parking lot with natural daylight. A Korean woman's hand, wearing a light glove, holds a 100-won coin sideways and inserts its edge into the tread groove to check depth, sunlight raking across the rubber texture to emphasize the grooves and slight wear. Background softly blurred showing pavement and a car's wheel well, realistic phone-photo grain, no visible numbers or gauge markings in frame.",
+  "alt": "동전을 타이어 홈에 넣어 마모 상태를 확인하는 손 클로즈업"
  },
  {
   "head": "타이어 교체, 이렇게 준비하면 돼요",
-  "prompt": "Wide-angle photo inside a small local tire repair shop, a Korean man mechanic in work overalls crouching beside a car with a raised wheel well, using a hand tool to remove lug nuts from a wheel, winter tire leaning against the car nearby, bright overhead garage lighting mixed with daylight from an open shutter door, mid-action candid moment, slightly low camera angle from the side, realistic concrete floor with tire marks and tools scattered nearby, no readable signage or brand text in frame",
-  "alt": "타이어 정비소에서 정비사가 차량 바퀴를 교체 작업하는 모습"
+  "prompt": "Inside a small Korean neighborhood tire repair shop, slightly cluttered and lived-in with tires stacked along the wall and fluorescent overhead lighting. A Korean man in his 30s wearing a work uniform and gloves kneels beside a car that is raised on a lift, using a pneumatic wrench to remove lug nuts from a wheel, sparks of motion blur on the spinning tool, a new winter tire leaning against the car nearby. Mid-shot angle from a few meters away, warm indoor lighting mixed with a shaft of daylight from the open shop entrance, candid documentary photo feel.",
+  "alt": "타이어 정비소에서 정비사가 차량 리프트 아래에서 타이어를 교체하는 모습"
  }
 ]
