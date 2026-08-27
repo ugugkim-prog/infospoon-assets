@@ -1,17 +1,17 @@
 [
  {
   "head": "2차 신청, 단계별로 따라 하세요",
-  "prompt": "Close-up over-the-shoulder shot of a Korean woman in her early 20s sitting at a wooden desk in a bright home study room, typing on a laptop keyboard with focused expression, soft natural window light from the left side, a warm desk lamp glowing softly in the background, a cup of coffee and a notebook with a pen resting beside the laptop, shallow depth of field blurring the background bookshelf, mid-morning lighting, realistic candid photo style, no visible screen text or readable UI",
-  "alt": "여성이 집 책상에서 노트북으로 국가장학금 2차 신청 절차를 진행하는 모습"
+  "prompt": "Close-up over-the-shoulder shot of a young Korean woman sitting at a home desk, typing on a laptop keyboard with both hands, soft natural window light from the left falling across the desk, a warm beige cardigan sleeve visible, a ceramic mug of coffee and a spiral notebook with a pen resting beside the laptop, shallow depth of field blurring the background bookshelf, candid documentary style as if captured mid-task while filling out an online application at home in the evening",
+  "alt": "노트북 앞에 앉아 국가장학금 2차 신청서를 작성하는 여성의 뒷모습, 책상 위 커피잔과 노트"
  },
  {
   "head": "미리 챙겨야 할 서류와 준비물",
-  "prompt": "Top-down flat lay photo on a light wooden table showing a stack of paper documents, a blank manila folder, a Korean resident registration card mockup placed face-down showing only the plain back, a bank passbook, a black pen, and a smartphone, arranged neatly in soft diffused daylight coming from a nearby window, slight shadows for depth, realistic still-life photography, no legible text or numbers visible on any item",
-  "alt": "국가장학금 2차 신청에 필요한 서류와 통장, 신분증 등을 책상 위에 정리해둔 모습"
+  "prompt": "Top-down flat lay photo on a light wooden desk showing a stack of blank white A4 documents fanned out slightly, a plain manila folder, a Korean resident registration card mockup placed face-down (no visible text), a bankbook with plain cover, a black pen, and a small USB security key device, natural soft daylight from a nearby window casting gentle shadows, everything neatly arranged in a grid, shot straight down at 90 degrees with a smartphone camera aesthetic",
+  "alt": "국가장학금 2차 신청에 필요한 서류와 통장, 신분증, 인증서를 책상 위에 정리해 놓은 모습"
  },
  {
   "head": "소득 구간이 걱정될 때 확인하는 방법",
-  "prompt": "Close-up candid photo of a Korean man in his 20s sitting on a sofa at home, holding a smartphone with both hands and looking at the screen with a slightly worried but concentrated expression, soft evening lamplight illuminating his face from the side, blurred living room background with a plant and cushions, shallow depth of field, realistic lifestyle photography, phone screen glow visible but no readable text or numbers on it",
-  "alt": "남성이 소파에서 휴대폰으로 소득분위 확인 방법을 알아보며 고민하는 모습"
+  "prompt": "Medium shot of a Korean woman in her early twenties sitting on a sofa at home, holding her smartphone up in both hands and looking at the screen with a slightly furrowed, concentrating expression, soft evening lamp light beside her, cozy living room background softly blurred with a blanket draped over the sofa arm, natural candid pose as if checking a family income assessment result on a government app, shallow depth of field",
+  "alt": "소파에 앉아 스마트폰으로 소득 구간 산정 결과를 확인하며 고민하는 여성의 모습"
  }
 ]
