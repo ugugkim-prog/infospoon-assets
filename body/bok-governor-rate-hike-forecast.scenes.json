@@ -1,0 +1,17 @@
+[
+ {
+  "head": "대출자가 지금 확인해야 할 것",
+  "prompt": "A Korean man in his late 30s sitting alone at a small kitchen table in a modest apartment in the early evening, warm lamp light from the side, looking down at a stack of loan documents and a bank passbook spread on the table, one hand resting on his forehead in a thinking posture, a smartphone lying face-down beside the papers, soft natural window light mixed with warm indoor lamp light, shallow depth of field, candid unposed feel, shot from a slightly elevated three-quarter angle as if taken by someone sitting across the table, realistic amateur smartphone photo look, no visible text or legible numbers on any paper",
+  "alt": "저녁 시간 거실 식탁에서 대출 서류와 통장을 앞에 두고 고민하는 남성의 뒷모습 실루엣 사진"
+ },
+ {
+  "head": "예금·적금 이용자가 챙길 것",
+  "prompt": "A Korean woman in her 40s standing at an ATM booth inside a bank branch during daytime, seen from behind and slightly to the side, holding a bankbook in one hand while looking at the ATM screen, soft fluorescent bank lighting, other empty ATM machines visible in a blurred row in the background, realistic candid documentary photo style, medium shot at eye level, no readable text or numbers visible on the screen or bankbook cover",
+  "alt": "은행 ATM 부스에서 통장을 들고 화면을 확인하는 여성의 뒷모습 사진"
+ },
+ {
+  "head": "금리가 오르면 내 대출이자·예금이자는 어떻게 바뀔까",
+  "prompt": "Close-up over-the-shoulder shot of a Korean woman's hands using a small desktop calculator next to a laptop with its screen slightly out of focus and unreadable, on a wooden home desk near a window with soft afternoon daylight coming in, a cup of coffee and a few loose papers nearby, warm and slightly moody lighting, shallow depth of field focusing on the hands and calculator, realistic lifestyle photography feel, no legible digits or text sharply visible",
+  "alt": "창가 책상에서 계산기와 노트북을 두고 이자를 계산하는 여성의 손 클로즈업 사진"
+ }
+]
