@@ -1,0 +1,17 @@
+[
+ {
+  "head": "신청 전에 준비할 것",
+  "prompt": "Top-down flat-lay photo on a wooden home desk: an open laptop with a blurred, out-of-focus screen, a smartphone lying face-up beside it, a blank ID-style card with no visible text, and a plain notepad and pen, soft natural window light from the left, shallow depth of field, realistic smartphone photography look, no readable text or numbers anywhere in frame",
+  "alt": "전입신고 온라인 신청 전 준비물로 노트북, 휴대폰, 신분증, 메모지를 책상 위에 올려둔 모습"
+ },
+ {
+  "head": "정부24 전입신고 순서",
+  "prompt": "Over-the-shoulder shot of a Korean woman in her 30s sitting at a home desk, typing on a laptop keyboard with both hands, the laptop screen softly blurred and text unreadable, warm afternoon sunlight coming through a nearby window, cozy living room background softly out of focus, candid documentary photography style, shallow depth of field",
+  "alt": "한국인 여성이 집 책상에서 노트북으로 정부24 전입신고를 신청하는 뒷모습"
+ },
+ {
+  "head": "신청 후 확인해야 할 것",
+  "prompt": "Close-up photo of a Korean man's hands holding a smartphone near a sunlit window, phone screen tilted away and slightly blurred so no text is legible, a plain white envelope and a cup of coffee resting on the table nearby, morning light casting soft shadows, natural candid smartphone photography style",
+  "alt": "한국인 남성이 전입신고 처리 결과를 확인하려고 휴대폰을 들여다보는 모습"
+ }
+]
