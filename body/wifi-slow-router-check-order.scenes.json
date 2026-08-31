@@ -1,0 +1,17 @@
+[
+ {
+  "head": "1단계, 진짜 느린 게 맞는지부터 확인해요",
+  "prompt": "Close-up over-the-shoulder shot of a Korean woman sitting on a living room sofa, holding a smartphone at a slight downward angle while checking a loading webpage, soft afternoon window light from the left, shallow depth of field with a laptop blurred on the coffee table in the background, realistic candid smartphone photography style, no visible text or icons legible on screen",
+  "alt": "거실 소파에 앉아 스마트폰으로 인터넷 속도를 확인하고 있는 여성의 모습"
+ },
+ {
+  "head": "2단계, 모뎀과 공유기 재부팅은 순서가 중요해요",
+  "prompt": "Close-up photo of a hand unplugging a black power adapter cable from a wall outlet near a stacked modem and router unit on a low shelf, shot from a slightly high angle, warm indoor lamp lighting, visible dust-free cables neatly arranged, realistic home network setup, no readable text or labels on devices",
+  "alt": "공유기와 모뎀의 전원 케이블을 뽑고 있는 손 클로즈업 사진"
+ },
+ {
+  "head": "3단계, 공유기 위치와 전파 방해 요소를 확인해요",
+  "prompt": "Wide-angle photo of a home router placed on a wooden shelf in a corner of a living room, partially obstructed by a stack of books and a large potted plant nearby, soft natural daylight from a window on the right, realistic interior photography showing the router tucked in a cluttered, low, closed-in spot away from open space, no text visible on the device",
+  "alt": "책과 화분 옆 구석진 자리에 놓여 전파가 막혀 있는 공유기의 모습"
+ }
+]
