@@ -1,0 +1,17 @@
+[
+ {
+  "head": "메타플랜트 아메리카는 어떤 공장인가",
+  "prompt": "Wide low-angle exterior photo of a massive modern automotive assembly plant at golden hour, long gray metal facade with rows of loading docks, several finished SUVs and sedans in muted factory-white primer parked in a staging yard beside the building, a few employee cars in an adjacent parking lot, tall light poles and overhead power lines, soft warm sunset light casting long shadows, slight haze in the distance, shot with a 35mm lens, documentary photojournalism style, no visible text or signage anywhere on the building",
+  "alt": "노을 진 하늘 아래 대형 자동차 조립 공장 외관과 마당에 세워진 완성 차량들의 모습"
+ },
+ {
+  "head": "현지화 비율 80%, 무슨 의미인가",
+  "prompt": "Medium shot inside an auto parts warehouse, a Korean man in a gray work uniform and safety vest pushing a metal cart loaded with unlabeled boxed automotive components (bumper covers, seat frames, wiring harness bundles wrapped in plastic) down a long aisle of steel shelving stacked with similar unmarked parts, overhead fluorescent lighting, shallow depth of field focusing on the cart in the foreground, shot from a slightly elevated three-quarter angle, realistic candid photojournalism style, no text or labels visible on any boxes",
+  "alt": "부품 창고에서 포장된 자동차 부품 상자들을 카트에 싣고 옮기는 작업자의 모습"
+ },
+ {
+  "head": "생산량이 늘어나면 소비자와 시장엔 어떤 영향이 있을까",
+  "prompt": "Photo taken at a car dealership outdoor lot in early morning light, rows of brand-new SUVs in various colors (white, silver, dark gray) lined up neatly with reflective glossy finishes, a Korean woman in casual autumn clothing walking between two rows while looking at the vehicles with her hand resting on a car's hood, soft diffused morning sunlight, slight lens flare, shot from a low three-quarter angle emphasizing the long row of cars stretching into the background, realistic candid photography, no visible price tags, window stickers, or dealership signage",
+  "alt": "이른 아침 대리점 야외 전시장에서 새 차들을 둘러보는 여성의 뒷모습과 나란히 늘어선 신차들"
+ }
+]
