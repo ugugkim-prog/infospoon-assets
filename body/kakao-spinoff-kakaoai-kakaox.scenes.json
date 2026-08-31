@@ -1,0 +1,17 @@
+[
+ {
+  "head": "카카오 인적분할, 무슨 일이 있었나",
+  "prompt": "Realistic candid photo of a Korean woman in her 30s sitting at a small kitchen table in the early morning, holding a smartphone with both hands and reading news with a focused, slightly worried expression, soft warm morning light coming through a window behind her, a cup of coffee steaming beside the phone, shallow depth of field blurring the phone screen content, shot from a slightly elevated angle, natural indoor photography style, no visible readable text or numbers on any screen",
+  "alt": "이른 아침 식탁에서 스마트폰으로 뉴스를 확인하며 걱정스러운 표정을 짓는 여성"
+ },
+ {
+  "head": "주가는 왜 급락했나",
+  "prompt": "Realistic photo of a Korean man in his 40s sitting alone at a home office desk, leaning forward with his hand on his forehead, looking at a computer monitor displaying a blurred red-toned line chart trending downward, the screen out of focus enough that no numbers or labels are legible, dim room lit mainly by the monitor's glow, side angle capturing his tense posture, documentary-style photography, shallow focus on the person",
+  "alt": "붉은색 하락 그래프가 흐릿하게 보이는 모니터 앞에서 이마를 짚고 있는 남성"
+ },
+ {
+  "head": "기존 카카오 주주는 어떻게 되나",
+  "prompt": "Realistic photo of a Korean woman in her late 20s sitting on a sofa at home in the evening, holding a smartphone close and scrolling with her thumb, brow slightly furrowed in thought, warm lamp light from the side, a notebook and pen resting on the coffee table in front of her, medium close-up angle from the side, natural lighting, phone screen content blurred and unreadable, candid lifestyle photography style",
+  "alt": "저녁에 소파에 앉아 증권 앱 화면을 심각한 표정으로 들여다보는 여성"
+ }
+]
